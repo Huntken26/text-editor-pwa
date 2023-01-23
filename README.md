@@ -36,7 +36,7 @@ Before you begin make sure that you clone the github repo ``git clone repo`` wit
 4. Press the install button to test it out! <br/> <br/>
  
  
-Check out the Deployed site at:
+Check out the Deployed site at: https://vast-spire-18616.herokuapp.com/
 
 
 

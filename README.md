@@ -25,16 +25,17 @@ Before you begin make sure that you clone the github repo ``git clone repo`` wit
 ## USAGE/INSTRUCTIONS:
 
 1. Within the terminal enter ``npm install`` <br/>
-
+![Screenshot (5)](https://user-images.githubusercontent.com/107738986/214124713-e0a54760-1c86-423e-b903-0c67b6194526.png)
 
 2.  Next enter ``npm start``<br/> 
-
+![Screenshot (4)](https://user-images.githubusercontent.com/107738986/214124824-f715668a-47ef-4378-b777-e0c51a177472.png)
 
 3.  Go to the server address at http://localhost:3000 <br/> 
 
+![Screenshot (6)](https://user-images.githubusercontent.com/107738986/214124929-82e03695-3780-4893-bf2f-0ffef3f6a5c5.png)
 
 4. Press the install button to test it out! <br/> <br/>
- 
+ ![Screenshot (7)](https://user-images.githubusercontent.com/107738986/214125025-964e54ae-4d81-471b-a497-5064d2da8768.png)
  
 Check out the Deployed site at: https://vast-spire-18616.herokuapp.com/
 

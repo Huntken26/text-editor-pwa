@@ -27,16 +27,16 @@ Before you begin make sure that you clone the github repo ``git clone repo`` wit
 1. Within the terminal enter ``npm install`` <br/>
 
 
-2.  <br/> 
+2.  Next enter ``npm start``<br/> 
 
 
-3.  <br/> 
+3.  Go to the server address at http://localhost:3000 <br/> 
 
 
-4.  <br/>
+4. Press the install button to test it out! <br/> <br/>
  
  
-5. <br/>
+Check out the Deployed site at:
 
 
 
@@ -48,7 +48,13 @@ Before you begin make sure that you clone the github repo ``git clone repo`` wit
 ## CREDITS:
 
 I'd like to thank Thanks for assistance from  my instructor Kyle, tutor Chris, TA Ethan and I would like to credit these sites also:
+https://coding-boot-camp.github.io/full-stack/heroku/heroku-deployment-guide <br/>
 
+https://web.dev/install-criteria/ <br/>
+
+https://web.dev/add-manifest/ <br/>
+
+Unit 19 Mini Project from the University of Minnesota Bootcamps
 
 ## LICENSES:
 
